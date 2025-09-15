@@ -1,0 +1,298 @@
+2025-09-12 22:18:18,797 - yolo - Logger initialized
+2025-09-12 22:18:18,797 - yolo - ----------STARTED----------
+2025-09-12 22:18:18,797 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=True, data_root='Car Data', model='./runs/train/weights/best.pt', log_level='DEBUG')
+2025-09-12 22:18:18,809 - yolo - CUDA devices: 1
+2025-09-12 22:18:18,897 - yolo - Loaded existing model: ./runs/train/weights/best.pt
+2025-09-12 22:18:18,897 - yolo - Validating model
+2025-09-12 22:18:27,402 - yolo - Validation complete
+2025-09-12 22:18:27,402 - yolo - Predicting
+2025-09-12 22:18:39,424 - yolo - Prediction complete
+2025-09-12 22:18:50,073 - yolo - Logger initialized
+2025-09-12 22:18:50,073 - yolo - ----------STARTED----------
+2025-09-12 22:18:50,074 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train/weights/best.pt', log_level='DEBUG')
+2025-09-12 22:18:50,086 - yolo - CUDA devices: 1
+2025-09-12 22:18:50,166 - yolo - Loaded existing model: ./runs/train/weights/best.pt
+2025-09-12 22:18:50,166 - yolo - Validating model
+2025-09-12 22:18:55,700 - yolo - Validation complete
+2025-09-12 22:31:38,325 - yolo - Logger initialized
+2025-09-12 22:31:38,325 - yolo - ----------STARTED----------
+2025-09-12 22:31:38,325 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=True, predict=True, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG')
+2025-09-12 22:31:38,337 - yolo - CUDA devices: 1
+2025-09-12 22:31:38,410 - yolo - Loaded existing model: yolo12n.pt
+2025-09-12 22:35:48,740 - yolo - Logger initialized
+2025-09-12 22:35:48,740 - yolo - ----------STARTED----------
+2025-09-12 22:35:48,740 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=True, predict=True, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG')
+2025-09-12 22:35:48,752 - yolo - CUDA devices: 1
+2025-09-12 22:35:48,835 - yolo - Loaded existing model: yolo12n.pt
+2025-09-12 22:35:48,835 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-12 22:37:59,359 - yolo - Logger initialized
+2025-09-12 22:37:59,359 - yolo - ----------STARTED----------
+2025-09-12 22:37:59,359 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=True, predict=True, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG')
+2025-09-12 22:37:59,375 - yolo - CUDA devices: 1
+2025-09-12 22:37:59,438 - yolo - Loaded existing model: yolo12n.pt
+2025-09-12 22:37:59,438 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-12 22:40:53,158 - yolo - Training complete
+2025-09-12 22:40:54,644 - yolo - Model exported to E:\repository\Artificial Intelligence\yolo\train framework\runs\train2\weights\best.onnx
+2025-09-12 22:40:54,659 - yolo - Validating model
+2025-09-12 22:41:16,112 - yolo - Validation complete
+2025-09-12 22:41:16,112 - yolo - Predicting
+2025-09-12 22:41:28,312 - yolo - Prediction complete
+2025-09-13 18:07:17,441 - yolo - Logger initialized
+2025-09-13 18:13:59,235 - yolo - Logger initialized
+2025-09-13 18:13:59,235 - yolo - Logger initialized
+2025-09-13 21:17:31,984 - yolo - Logger initialized
+2025-09-13 21:18:09,773 - yolo - CUDA devices: 1
+2025-09-13 21:18:09,840 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:18:09,841 - yolo - Loading data config: Car Data\data.yaml
+2025-09-13 21:18:09,841 - yolo - Starting training
+2025-09-13 21:19:30,067 - yolo - CUDA devices: 1
+2025-09-13 21:19:30,110 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:19:30,111 - yolo - Loading data config: ./datasets/Car Data\data.yaml
+2025-09-13 21:19:30,111 - yolo - Starting training
+2025-09-13 21:22:09,313 - yolo - Training complete
+2025-09-13 21:23:56,233 - yolo - CUDA devices: 1
+2025-09-13 21:23:56,268 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:23:56,270 - yolo - Loading data config: ./datasets/Car Data\data.yaml
+2025-09-13 21:23:56,270 - yolo - Starting training
+2025-09-13 21:26:35,043 - yolo - Training complete
+2025-09-13 21:30:00,241 - yolo - Logger initialized
+2025-09-13 21:30:00,242 - yolo - Logger initialized
+2025-09-13 21:30:00,242 - yolo - Logger initialized
+2025-09-13 21:30:00,243 - yolo - ----------STARTED----------
+2025-09-13 21:30:00,243 - yolo - ----------STARTED----------
+2025-09-13 21:30:00,243 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:30:00,243 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:30:00,255 - yolo - CUDA devices: 1
+2025-09-13 21:30:00,255 - yolo - CUDA devices: 1
+2025-09-13 21:30:00,329 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:30:00,329 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:30:00,329 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:30:00,329 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:30:00,329 - yolo - Starting training
+2025-09-13 21:30:00,329 - yolo - Starting training
+2025-09-13 21:30:06,526 - yolo - Logger initialized
+2025-09-13 21:30:08,118 - yolo - Logger initialized
+2025-09-13 21:30:09,621 - yolo - Logger initialized
+2025-09-13 21:30:11,102 - yolo - Logger initialized
+2025-09-13 21:30:12,590 - yolo - Logger initialized
+2025-09-13 21:30:14,163 - yolo - Logger initialized
+2025-09-13 21:30:15,683 - yolo - Logger initialized
+2025-09-13 21:30:17,219 - yolo - Logger initialized
+2025-09-13 21:30:18,993 - yolo - Logger initialized
+2025-09-13 21:30:20,513 - yolo - Logger initialized
+2025-09-13 21:30:22,130 - yolo - Logger initialized
+2025-09-13 21:30:23,622 - yolo - Logger initialized
+2025-09-13 21:30:25,102 - yolo - Logger initialized
+2025-09-13 21:30:26,574 - yolo - Logger initialized
+2025-09-13 21:30:28,062 - yolo - Logger initialized
+2025-09-13 21:30:29,752 - yolo - Logger initialized
+2025-09-13 21:30:31,541 - yolo - Logger initialized
+2025-09-13 21:30:34,430 - yolo - Logger initialized
+2025-09-13 21:30:35,925 - yolo - Logger initialized
+2025-09-13 21:30:37,499 - yolo - Logger initialized
+2025-09-13 21:30:38,996 - yolo - Logger initialized
+2025-09-13 21:30:40,585 - yolo - Logger initialized
+2025-09-13 21:30:42,092 - yolo - Logger initialized
+2025-09-13 21:30:43,540 - yolo - Logger initialized
+2025-09-13 21:30:51,146 - yolo - Logger initialized
+2025-09-13 21:30:52,617 - yolo - Logger initialized
+2025-09-13 21:30:54,111 - yolo - Logger initialized
+2025-09-13 21:30:55,679 - yolo - Logger initialized
+2025-09-13 21:31:00,174 - yolo - Logger initialized
+2025-09-13 21:31:01,769 - yolo - Logger initialized
+2025-09-13 21:31:03,495 - yolo - Logger initialized
+2025-09-13 21:31:05,071 - yolo - Logger initialized
+2025-09-13 21:31:50,498 - yolo - Logger initialized
+2025-09-13 21:31:50,499 - yolo - ----------STARTED----------
+2025-09-13 21:31:50,499 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:31:50,518 - yolo - CUDA devices: 1
+2025-09-13 21:31:50,609 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:31:50,609 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:31:50,609 - yolo - Starting training
+2025-09-13 21:31:57,001 - yolo - Logger initialized
+2025-09-13 21:31:58,456 - yolo - Logger initialized
+2025-09-13 21:31:59,948 - yolo - Logger initialized
+2025-09-13 21:32:01,490 - yolo - Logger initialized
+2025-09-13 21:32:03,083 - yolo - Logger initialized
+2025-09-13 21:32:04,537 - yolo - Logger initialized
+2025-09-13 21:32:05,988 - yolo - Logger initialized
+2025-09-13 21:32:07,466 - yolo - Logger initialized
+2025-09-13 21:32:09,193 - yolo - Logger initialized
+2025-09-13 21:32:10,652 - yolo - Logger initialized
+2025-09-13 21:32:12,297 - yolo - Logger initialized
+2025-09-13 21:32:13,865 - yolo - Logger initialized
+2025-09-13 21:32:15,366 - yolo - Logger initialized
+2025-09-13 21:32:16,900 - yolo - Logger initialized
+2025-09-13 21:32:18,364 - yolo - Logger initialized
+2025-09-13 21:32:19,973 - yolo - Logger initialized
+2025-09-13 21:32:21,429 - yolo - Logger initialized
+2025-09-13 21:32:23,119 - yolo - Logger initialized
+2025-09-13 21:32:24,606 - yolo - Logger initialized
+2025-09-13 21:32:26,069 - yolo - Logger initialized
+2025-09-13 21:32:27,543 - yolo - Logger initialized
+2025-09-13 21:32:29,059 - yolo - Logger initialized
+2025-09-13 21:32:30,657 - yolo - Logger initialized
+2025-09-13 21:32:32,139 - yolo - Logger initialized
+2025-09-13 21:32:39,448 - yolo - Logger initialized
+2025-09-13 21:32:41,144 - yolo - Logger initialized
+2025-09-13 21:32:42,873 - yolo - Logger initialized
+2025-09-13 21:35:24,298 - yolo - Logger initialized
+2025-09-13 21:35:24,299 - yolo - ----------STARTED----------
+2025-09-13 21:35:24,299 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:35:24,313 - yolo - CUDA devices: 1
+2025-09-13 21:35:24,417 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:35:24,417 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:35:24,417 - yolo - Starting training
+2025-09-13 21:35:30,940 - yolo - Logger initialized
+2025-09-13 21:35:32,393 - yolo - Logger initialized
+2025-09-13 21:35:33,854 - yolo - Logger initialized
+2025-09-13 21:35:35,329 - yolo - Logger initialized
+2025-09-13 21:35:36,794 - yolo - Logger initialized
+2025-09-13 21:35:38,252 - yolo - Logger initialized
+2025-09-13 21:35:39,707 - yolo - Logger initialized
+2025-09-13 21:35:41,163 - yolo - Logger initialized
+2025-09-13 21:35:43,345 - yolo - Logger initialized
+2025-09-13 21:35:44,820 - yolo - Logger initialized
+2025-09-13 21:35:46,355 - yolo - Logger initialized
+2025-09-13 21:35:47,821 - yolo - Logger initialized
+2025-09-13 21:35:49,281 - yolo - Logger initialized
+2025-09-13 21:35:50,841 - yolo - Logger initialized
+2025-09-13 21:35:52,371 - yolo - Logger initialized
+2025-09-13 21:35:53,916 - yolo - Logger initialized
+2025-09-13 21:35:55,384 - yolo - Logger initialized
+2025-09-13 21:35:56,833 - yolo - Logger initialized
+2025-09-13 21:35:58,399 - yolo - Logger initialized
+2025-09-13 21:35:59,869 - yolo - Logger initialized
+2025-09-13 21:36:01,325 - yolo - Logger initialized
+2025-09-13 21:36:02,788 - yolo - Logger initialized
+2025-09-13 21:38:29,264 - yolo - Logger initialized
+2025-09-13 21:38:29,264 - yolo - ----------STARTED----------
+2025-09-13 21:38:29,264 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:38:29,276 - yolo - CUDA devices: 1
+2025-09-13 21:38:29,352 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:38:29,352 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:38:29,352 - yolo - Starting training
+2025-09-13 21:43:44,624 - yolo - Logger initialized
+2025-09-13 21:43:44,625 - yolo - ----------STARTED----------
+2025-09-13 21:43:44,625 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:43:44,651 - yolo - CUDA devices: 1
+2025-09-13 21:43:44,745 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:43:44,745 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:43:44,746 - yolo - Starting training
+2025-09-13 21:46:19,166 - yolo - Training complete
+2025-09-13 21:46:20,885 - yolo - Model exported to E:\repository\Artificial Intelligence\yolo\train framework\runs\train10\weights\best.onnx
+2025-09-13 21:50:11,143 - yolo - Logger initialized
+2025-09-13 21:50:11,143 - yolo - ----------STARTED----------
+2025-09-13 21:50:11,143 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:50:11,155 - yolo - CUDA devices: 1
+2025-09-13 21:50:11,228 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:50:11,228 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:50:11,228 - yolo - Starting training
+2025-09-13 21:50:54,879 - yolo - Logger initialized
+2025-09-13 21:50:54,879 - yolo - ----------STARTED----------
+2025-09-13 21:50:54,880 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-13 21:50:54,892 - yolo - CUDA devices: 1
+2025-09-13 21:50:54,968 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:50:54,969 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:50:54,969 - yolo - Starting training
+2025-09-13 21:52:36,089 - yolo - Logger initialized
+2025-09-13 21:52:36,089 - yolo - ----------STARTED----------
+2025-09-13 21:52:36,089 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=1)
+2025-09-13 21:52:36,101 - yolo - CUDA devices: 1
+2025-09-13 21:52:36,176 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 21:52:36,176 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 21:52:36,176 - yolo - Starting training
+2025-09-13 21:56:10,357 - yolo - Training complete
+2025-09-13 21:56:11,753 - yolo - Model exported to E:\repository\Artificial Intelligence\yolo\train framework\runs\train13\weights\best.onnx
+2025-09-13 22:06:21,523 - yolo - Logger initialized
+2025-09-13 22:06:21,523 - yolo - ----------STARTED----------
+2025-09-13 22:06:21,524 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=1)
+2025-09-13 22:06:21,537 - yolo - CUDA devices: 1
+2025-09-13 22:06:21,606 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 22:06:21,606 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 22:06:21,607 - yolo - Starting training
+2025-09-13 22:09:49,878 - yolo - Training complete
+2025-09-13 22:09:51,443 - yolo - Model exported to E:\repository\Artificial Intelligence\yolo\train framework\runs\train14\weights\best.onnx
+2025-09-13 22:39:47,327 - yolo - Logger initialized
+2025-09-13 22:39:47,327 - yolo - ----------STARTED----------
+2025-09-13 22:39:47,328 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=False, predict=False, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=1)
+2025-09-13 22:39:47,340 - yolo - CUDA devices: 1
+2025-09-13 22:39:47,422 - yolo - Loaded existing model: yolo12n.pt
+2025-09-13 22:39:47,423 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-13 22:39:47,423 - yolo - Starting training
+2025-09-13 22:43:19,648 - yolo - Training complete
+2025-09-15 09:58:16,992 - yolo - Logger initialized
+2025-09-15 09:58:16,992 - yolo - ----------STARTED----------
+2025-09-15 09:58:16,992 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 09:58:17,018 - yolo - CUDA devices: 1
+2025-09-15 09:58:17,114 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 09:58:17,114 - yolo - Validating model
+2025-09-15 09:58:40,009 - yolo - Valid mAPs: [    0.35386     0.45542     0.28223     0.43727     0.36409      0.5013]
+2025-09-15 09:58:40,009 - yolo - Validation complete
+2025-09-15 10:10:47,439 - yolo - Logger initialized
+2025-09-15 10:10:47,439 - yolo - ----------STARTED----------
+2025-09-15 10:10:47,439 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:10:47,452 - yolo - CUDA devices: 1
+2025-09-15 10:10:47,527 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:10:47,527 - yolo - Validating model
+2025-09-15 10:11:08,039 - yolo - Valid mAP50-95: [    0.35386     0.45542     0.28223     0.43727     0.36409      0.5013]
+2025-09-15 10:11:08,040 - yolo - Valid mAP: 0.39902657745526826
+2025-09-15 10:11:08,040 - yolo - Validation complete
+2025-09-15 10:19:55,709 - yolo - Logger initialized
+2025-09-15 10:19:55,709 - yolo - ----------STARTED----------
+2025-09-15 10:19:55,709 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:19:55,726 - yolo - CUDA devices: 1
+2025-09-15 10:19:55,823 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:19:55,824 - yolo - Validating model
+2025-09-15 10:20:17,280 - yolo - Valid mAPs50-95: [    0.35386     0.45542     0.28223     0.43727     0.36409      0.5013]
+2025-09-15 10:20:17,280 - yolo - Valid mAP50-95: 0.39902657745526826
+2025-09-15 10:22:17,007 - yolo - Logger initialized
+2025-09-15 10:22:17,008 - yolo - ----------STARTED----------
+2025-09-15 10:22:17,008 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:22:17,027 - yolo - CUDA devices: 1
+2025-09-15 10:22:17,112 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:22:17,112 - yolo - Validating model
+2025-09-15 10:22:38,391 - yolo - Valid mAPs50-95: [    0.35386     0.45542     0.28223     0.43727     0.36409      0.5013]
+2025-09-15 10:22:38,391 - yolo - Valid mAP50-95: 0.39902657745526826
+2025-09-15 10:26:24,134 - yolo - Logger initialized
+2025-09-15 10:26:24,134 - yolo - ----------STARTED----------
+2025-09-15 10:26:24,134 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=True, predict=False, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:26:24,148 - yolo - CUDA devices: 1
+2025-09-15 10:26:24,222 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:26:24,222 - yolo - Validating model
+2025-09-15 10:26:45,777 - yolo - Valid mAPs50-95: [    0.35386     0.45542     0.28223     0.43727     0.36409      0.5013]
+2025-09-15 10:26:45,777 - yolo - Valid speed: {'preprocess': 0.32942407415248454, 'inference': 4.5741111110898744, 'loss': 0.0005495884702943358, 'postprocess': 1.023004526704063}
+2025-09-15 10:26:45,778 - yolo - Validation complete
+2025-09-15 10:29:40,700 - yolo - Logger initialized
+2025-09-15 10:29:40,700 - yolo - ----------STARTED----------
+2025-09-15 10:29:40,700 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=False, predict=True, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:29:40,715 - yolo - CUDA devices: 1
+2025-09-15 10:29:40,790 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:29:40,790 - yolo - Predicting
+2025-09-15 10:30:24,560 - yolo - Logger initialized
+2025-09-15 10:30:24,560 - yolo - ----------STARTED----------
+2025-09-15 10:30:24,560 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=False, predict=True, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:30:24,573 - yolo - CUDA devices: 1
+2025-09-15 10:30:24,649 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:30:24,649 - yolo - Predicting
+2025-09-15 10:30:38,524 - yolo - Prediction complete
+2025-09-15 10:31:36,763 - yolo - Logger initialized
+2025-09-15 10:31:36,764 - yolo - ----------STARTED----------
+2025-09-15 10:31:36,764 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=False, predict=True, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:31:36,778 - yolo - CUDA devices: 1
+2025-09-15 10:31:36,852 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:31:36,852 - yolo - Predicting
+2025-09-15 10:31:50,482 - yolo - Prediction complete
+2025-09-15 10:37:10,097 - yolo - Logger initialized
+2025-09-15 10:37:10,097 - yolo - ----------STARTED----------
+2025-09-15 10:37:10,097 - yolo - Args: Namespace(train=False, resume=False, noload=False, val=False, predict=True, data_root='Car Data', model='./runs/train15/weights/best.pt', log_level='DEBUG', epochs=10)
+2025-09-15 10:37:10,112 - yolo - CUDA devices: 1
+2025-09-15 10:37:10,186 - yolo - Loaded existing model: ./runs/train15/weights/best.pt
+2025-09-15 10:37:10,186 - yolo - Predicting
+2025-09-15 12:57:44,501 - yolo - Logger initialized
+2025-09-15 12:57:44,503 - yolo - ----------STARTED----------
+2025-09-15 12:57:44,503 - yolo - Args: Namespace(train=True, resume=False, noload=False, val=True, predict=True, data_root='Car Data', model='yolo12n.pt', log_level='DEBUG', epochs=10)
+2025-09-15 12:57:44,519 - yolo - CUDA devices: 1
+2025-09-15 12:57:44,633 - yolo - Loaded existing model: yolo12n.pt
+2025-09-15 12:57:44,633 - yolo - Loading data config: ./datasets\Car Data\data.yaml
+2025-09-15 12:57:44,633 - yolo - Starting training
