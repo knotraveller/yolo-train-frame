@@ -1,0 +1,16 @@
+names:
+- B1
+- B2
+- B3
+- B4
+- B5
+- BG
+- R1
+- R2
+- R3
+- R4
+- R5
+- RG
+nc: 12
+train: E:\repository\Artificial Intelligence\yolo\train framework1\datasets\splited_data\fold0\train\images
+val: E:\repository\Artificial Intelligence\yolo\train framework1\datasets\splited_data\fold0\val\images
